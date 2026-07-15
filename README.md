@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning ROS<br>🎯 Goal: improving the lives of everyday people through my work</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Robust control!<br>🎯 Goal: improving the lives of everyday people through my work</p>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://github.com/saimoncollaku/saimoncollaku/blob/main/21169439-254031382.png" height="40" alt="vhdl logo"  />
   <img width="12" />
   <img src="https://github.com/saimoncollaku/saimoncollaku/blob/main/Mathematica_Logo.svg.png" height="40" alt="mathematica logo"  />
+  <img width="12" />
+  <img src="https://github.com/ROS-Robot/reference-ros2/blob/master/ros_logo.svg" />
 </div>
 
 ###
