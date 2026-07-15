@@ -28,7 +28,7 @@
   <img src="https://github.com/saimoncollaku/saimoncollaku/blob/main/21169439-254031382.png" height="40" alt="vhdl logo"  />
   <img width="12" />
   <img src="https://github.com/saimoncollaku/saimoncollaku/blob/main/Mathematica_Logo.svg.png" height="40" alt="mathematica logo"  />
-  <img width="12" />
+  <img width="3" />
   <img src="https://github.com/ROS-Robot/reference-ros2/blob/master/ros_logo.svg" />
 </div>
 
