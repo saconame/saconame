@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://github.com/saimoncollaku/saimoncollaku/blob/main/Mathematica_Logo.svg.png" height="40" alt="mathematica logo"  />
   <img width="12" />
-  <img src="https://github.com/ROS-Robot/reference-ros2/blob/master/ros_logo.svg" height="40" alt="ros logo"  /> />
+  <img src="https://github.com/ROS-Robot/reference-ros2/blob/master/ros_logo.svg" height="40" alt="ros logo"  />
 </div>
 
 ###
